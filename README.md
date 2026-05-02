@@ -69,7 +69,7 @@ Raw Hourly Rainfall (CSV)
 ## Installation
 
 ```bash
-git clone https://github.com/[your-username]/SWI-Landslide-Prediction.git
+git clone https://github.com/sagarbd33/SWI-Landslide-Prediction.git
 cd SWI-Landslide-Prediction
 pip install -r requirements.txt
 ```
@@ -165,4 +165,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Contact
 
-For questions or data access requests, please contact [corresponding author email].
+For questions or data access requests, please contact sagarbd33@gmail.com.
