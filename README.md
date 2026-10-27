@@ -145,17 +145,27 @@ python code/06_Bootstrap_Confidence_Intervals.py
 
 The hourly rainfall data were obtained from the Water Resources Department (WRD), Government of Arunachal Pradesh, and are subject to access restrictions. The landslide inventory was provided by the North Eastern Space Applications Centre (NESAC). Data can be made available from the corresponding author upon reasonable request with approval from the respective agencies.
 
+## Authors
+
+- Sagar Debbarma
+- Mawilallawm
+- Yiangyam Richard
+- Toko Jersum
+- Arnab Bandyopadhyay (corresponding author)
+- Aditi Bhadra
+
+Department of Agricultural Engineering, North Eastern Regional Institute of Science and Technology (NERIST), Nirjuli, Arunachal Pradesh, India
+
 ## Citation
 
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{[AuthorYear],
+@article{debbarma2026comparative,
   title={Comparative Evaluation of Deep Learning and Machine Learning Models for Soil Water Index-based Rainfall-induced Landslide Prediction in Northeast India},
-  author={[Authors]},
-  journal={[Journal]},
-  year={[Year]},
-  doi={[DOI]}
+  author={Debbarma, Sagar and {Mawilallawm} and Richard, Yiangyam and Jersum, Toko and Bandyopadhyay, Arnab and Bhadra, Aditi},
+  journal={Geodata and AI (Under review)},
+  year={2026}
 }
 ```
 
