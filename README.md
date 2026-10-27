@@ -164,7 +164,7 @@ If you use this code in your research, please cite:
 @article{debbarma2026comparative,
   title={Comparative Evaluation of Deep Learning and Machine Learning Models for Soil Water Index-based Rainfall-induced Landslide Prediction in Northeast India},
   author={Debbarma, Sagar and {Mawilallawm} and Richard, Yiangyam and Jersum, Toko and Bandyopadhyay, Arnab and Bhadra, Aditi},
-  journal={Geodata and AI (Under review)},
+  journal={Under review},
   year={2026}
 }
 ```
