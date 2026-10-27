@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "SWI-Landslide-Prediction"
+authors:
+  - family-names: Debbarma
+    given-names: Sagar
+  - name: Mawilallawm
+  - family-names: Richard
+    given-names: Yiangyam
+  - family-names: Jersum
+    given-names: Toko
+  - family-names: Bandyopadhyay
+    given-names: Arnab
+  - family-names: Bhadra
+    given-names: Aditi
+repository-code: "https://github.com/sagarbd33/SWI-Landslide-Prediction"
