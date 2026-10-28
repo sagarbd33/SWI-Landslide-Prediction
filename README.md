@@ -1,4 +1,4 @@
-# Comparative Evaluation of Deep Learning and Machine Learning Models for SWI-Based Landslide Prediction
+# Physics-Informed Machine Learning for Rainfall-Induced Landslide Early Warning in the Eastern Himalaya: Why Tree Ensembles Beat LSTM and GRU in Data-Scarce Settings
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow 2.x](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
@@ -8,7 +8,7 @@
 
 This repository contains the complete code and reproducible pipeline for the paper:
 
-> **Comparative Evaluation of Deep Learning and Machine Learning Models for Soil Water Index-based Rainfall-induced Landslide Prediction in Northeast India**
+> **Physics-Informed Machine Learning for Rainfall-Induced Landslide Early Warning in the Eastern Himalaya: Why Tree Ensembles Beat LSTM and GRU in Data-Scarce Settings**
 
 The study compares four predictive models — **LSTM**, **GRU**, **Random Forest**, and **XGBoost** — for binary landslide prediction using physics-informed features derived from a three-layer Sugawara tank model (Soil Water Index). Evaluation spans four automated weather stations in Arunachal Pradesh, India, with controlled ablation study, bootstrap confidence intervals, and independent temporal validation.
 
@@ -161,11 +161,12 @@ Department of Agricultural Engineering, North Eastern Regional Institute of Scie
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{debbarma2026comparative,
-  title={Comparative Evaluation of Deep Learning and Machine Learning Models for Soil Water Index-based Rainfall-induced Landslide Prediction in Northeast India},
+@article{debbarma2026physics,
+  title={Physics-Informed Machine Learning for Rainfall-Induced Landslide Early Warning in the Eastern Himalaya: Why Tree Ensembles Beat LSTM and GRU in Data-Scarce Settings},
   author={Debbarma, Sagar and {Mawilallawm} and Richard, Yiangyam and Jersum, Toko and Bandyopadhyay, Arnab and Bhadra, Aditi},
-  journal={Under review},
-  year={2026}
+  journal={Geodata and AI},
+  year={2026},
+  note={Manuscript under review (GEOAI-D-26-00213)}
 }
 ```
 
