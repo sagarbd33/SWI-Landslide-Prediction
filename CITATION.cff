@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
-title: "SWI-Landslide-Prediction"
+title: "Physics-Informed Machine Learning for Rainfall-Induced Landslide Early Warning in the Eastern Himalaya: Why Tree Ensembles Beat LSTM and GRU in Data-Scarce Settings"
 authors:
   - family-names: Debbarma
     given-names: Sagar
@@ -14,3 +14,21 @@ authors:
   - family-names: Bhadra
     given-names: Aditi
 repository-code: "https://github.com/sagarbd33/SWI-Landslide-Prediction"
+preferred-citation:
+  type: article
+  title: "Physics-Informed Machine Learning for Rainfall-Induced Landslide Early Warning in the Eastern Himalaya: Why Tree Ensembles Beat LSTM and GRU in Data-Scarce Settings"
+  authors:
+    - family-names: Debbarma
+      given-names: Sagar
+    - name: Mawilallawm
+    - family-names: Richard
+      given-names: Yiangyam
+    - family-names: Jersum
+      given-names: Toko
+    - family-names: Bandyopadhyay
+      given-names: Arnab
+    - family-names: Bhadra
+      given-names: Aditi
+  journal: "Geodata and AI"
+  year: 2026
+  notes: "Manuscript under review (GEOAI-D-26-00213)"
