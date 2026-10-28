@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
-title: "Physics-Informed Machine Learning for Rainfall-Induced Landslide Early Warning in the Eastern Himalaya: Why Tree Ensembles Beat LSTM and GRU in Data-Scarce Settings"
+title: "SWI-Landslide-Prediction"
 authors:
   - family-names: Debbarma
     given-names: Sagar
